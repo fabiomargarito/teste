@@ -40,8 +40,9 @@ namespace Command
             _corretora.Comprar();
         }
     }
+
        
-    //Receiver
+    //Receiver teste
     public class Corretora
     {
         public  Corretora(){}
