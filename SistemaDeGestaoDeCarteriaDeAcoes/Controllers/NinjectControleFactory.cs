@@ -1,4 +1,5 @@
-﻿using System.Web.Mvc;
+﻿using System;
+using System.Web.Mvc;
 using System.Web.SessionState;
 using Domain;
 using FluentNHibernate.Infrastructure;
@@ -29,15 +30,20 @@ namespace Infraestrutura
 
         public void ReleaseController(IController controller)
         {
-          Container.Release(controller);
+            var disposable = controller as IDisposable;
+
+            if (disposable != null)
+            {
+                disposable.Dispose();
+            }
         }
 
         public override void Load()
         {
             Bind<IRepositorio<Acao>>().To<RepositorioAcaoNHibernate>();
             Bind<IRepositorio<Empresa>>().To<RepositorioEmpresaNHibernate>();
-            Bind<IController>().To<AcaoController>();
-            Bind<IController>().To<HomeController>();
+            Bind<IController>().To<AcaoController>().Named("Acao");
+            Bind<IController>().To<HomeController>().Named("Home");
         }
     }
 }
