@@ -12,3 +12,10 @@ C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\ExemplosModulo2.Facade\bin\D
 C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\ExemplosModulo2.Facade\obj\x86\Debug\ExemplosModulo2.FacadeCMD.csprojResolveAssemblyReference.cache
 C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\ExemplosModulo2.Facade\obj\x86\Debug\ExemplosModulo2.Facade.exe
 C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\ExemplosModulo2.Facade\obj\x86\Debug\ExemplosModulo2.Facade.pdb
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\ExemplosModulo2.Facade\bin\Debug\ExemplosModulo2.Facade.exe
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\ExemplosModulo2.Facade\bin\Debug\ExemplosModulo2.Facade.pdb
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\ExemplosModulo2.Facade\bin\Debug\Facade.dll
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\ExemplosModulo2.Facade\bin\Debug\Facade.pdb
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\ExemplosModulo2.Facade\obj\x86\Debug\ExemplosModulo2.FacadeCMD.csprojResolveAssemblyReference.cache
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\ExemplosModulo2.Facade\obj\x86\Debug\ExemplosModulo2.Facade.exe
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\ExemplosModulo2.Facade\obj\x86\Debug\ExemplosModulo2.Facade.pdb

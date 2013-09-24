@@ -12,3 +12,10 @@ C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\Command\bin\Debug\ExercicioD
 C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\Command\obj\Debug\Command.csprojResolveAssemblyReference.cache
 C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\Command\obj\Debug\Command.dll
 C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\Command\obj\Debug\Command.pdb
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\Command\bin\Debug\Command.dll
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\Command\bin\Debug\Command.pdb
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\Command\bin\Debug\ExercicioDecorator.dll
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\Command\bin\Debug\ExercicioDecorator.pdb
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\Command\obj\Debug\Command.csprojResolveAssemblyReference.cache
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\Command\obj\Debug\Command.dll
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\Command\obj\Debug\Command.pdb

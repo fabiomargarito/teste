@@ -6,3 +6,8 @@ C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\ExercicioDecorator\bin\Debug
 C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\ExercicioDecorator\bin\Debug\ExercicioDecorator.pdb
 C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\ExercicioDecorator\obj\Debug\ExercicioDecorator.dll
 C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\ExercicioDecorator\obj\Debug\ExercicioDecorator.pdb
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\ExercicioDecorator\bin\Debug\ExercicioDecorator.dll
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\ExercicioDecorator\bin\Debug\ExercicioDecorator.pdb
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\ExercicioDecorator\obj\Debug\ExercicioDecorator.csprojResolveAssemblyReference.cache
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\ExercicioDecorator\obj\Debug\ExercicioDecorator.dll
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\ExercicioDecorator\obj\Debug\ExercicioDecorator.pdb

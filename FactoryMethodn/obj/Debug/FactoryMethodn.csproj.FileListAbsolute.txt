@@ -11,3 +11,8 @@ C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\FactoryMethodn\bin\Debug\Fac
 C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\FactoryMethodn\bin\Debug\FactoryMethodn.pdb
 C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\FactoryMethodn\obj\Debug\FactoryMethodn.dll
 C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\FactoryMethodn\obj\Debug\FactoryMethodn.pdb
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\FactoryMethodn\bin\Debug\FactoryMethodn.dll
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\FactoryMethodn\bin\Debug\FactoryMethodn.pdb
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\FactoryMethodn\obj\Debug\FactoryMethodn.csprojResolveAssemblyReference.cache
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\FactoryMethodn\obj\Debug\FactoryMethodn.dll
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\FactoryMethodn\obj\Debug\FactoryMethodn.pdb

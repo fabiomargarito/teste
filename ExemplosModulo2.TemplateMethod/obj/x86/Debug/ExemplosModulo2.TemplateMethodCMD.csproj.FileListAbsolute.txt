@@ -12,3 +12,10 @@ C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\ExemplosModulo2.TemplateMeth
 C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\ExemplosModulo2.TemplateMethod\obj\x86\Debug\ExemplosModulo2.TemplateMethodCMD.csprojResolveAssemblyReference.cache
 C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\ExemplosModulo2.TemplateMethod\obj\x86\Debug\ExemplosModulo2.TemplateMethod.exe
 C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\ExemplosModulo2.TemplateMethod\obj\x86\Debug\ExemplosModulo2.TemplateMethod.pdb
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\ExemplosModulo2.TemplateMethod\bin\Debug\ExemplosModulo2.TemplateMethod.exe
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\ExemplosModulo2.TemplateMethod\bin\Debug\ExemplosModulo2.TemplateMethod.pdb
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\ExemplosModulo2.TemplateMethod\bin\Debug\TemplateMethod.dll
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\ExemplosModulo2.TemplateMethod\bin\Debug\TemplateMethod.pdb
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\ExemplosModulo2.TemplateMethod\obj\x86\Debug\ExemplosModulo2.TemplateMethodCMD.csprojResolveAssemblyReference.cache
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\ExemplosModulo2.TemplateMethod\obj\x86\Debug\ExemplosModulo2.TemplateMethod.exe
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\ExemplosModulo2.TemplateMethod\obj\x86\Debug\ExemplosModulo2.TemplateMethod.pdb

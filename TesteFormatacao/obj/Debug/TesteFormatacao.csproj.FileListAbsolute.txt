@@ -18,3 +18,12 @@ C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\TesteFormatacao\bin\Debug\Co
 C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\TesteFormatacao\bin\Debug\ExercicioDecorator.dll
 C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\TesteFormatacao\bin\Debug\Command.pdb
 C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\TesteFormatacao\bin\Debug\ExercicioDecorator.pdb
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\TesteFormatacao\bin\Debug\TesteFormatacao.dll
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\TesteFormatacao\bin\Debug\TesteFormatacao.pdb
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\TesteFormatacao\bin\Debug\Command.dll
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\TesteFormatacao\bin\Debug\ExercicioDecorator.dll
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\TesteFormatacao\bin\Debug\Command.pdb
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\TesteFormatacao\bin\Debug\ExercicioDecorator.pdb
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\TesteFormatacao\obj\Debug\TesteFormatacao.csprojResolveAssemblyReference.cache
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\TesteFormatacao\obj\Debug\TesteFormatacao.dll
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\TesteFormatacao\obj\Debug\TesteFormatacao.pdb
