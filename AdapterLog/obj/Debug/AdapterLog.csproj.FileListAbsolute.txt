@@ -1,0 +1,8 @@
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo2\ExemplosHandsOn\AdapterLog\bin\Debug\AdapterLog.dll
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo2\ExemplosHandsOn\AdapterLog\bin\Debug\AdapterLog.pdb
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo2\ExemplosHandsOn\AdapterLog\obj\Debug\AdapterLog.dll
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo2\ExemplosHandsOn\AdapterLog\obj\Debug\AdapterLog.pdb
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\AdapterLog\bin\Debug\AdapterLog.dll
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\AdapterLog\bin\Debug\AdapterLog.pdb
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\AdapterLog\obj\Debug\AdapterLog.dll
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\AdapterLog\obj\Debug\AdapterLog.pdb

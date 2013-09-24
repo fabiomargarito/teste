@@ -1,0 +1,9 @@
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo2\ExemplosHandsOn\DecoratorFormatandoTextos\bin\Debug\DecoratorFormatandoTextos.dll
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo2\ExemplosHandsOn\DecoratorFormatandoTextos\bin\Debug\DecoratorFormatandoTextos.pdb
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo2\ExemplosHandsOn\DecoratorFormatandoTextos\obj\Debug\DecoratorFormatandoTextos.dll
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo2\ExemplosHandsOn\DecoratorFormatandoTextos\obj\Debug\DecoratorFormatandoTextos.pdb
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\DecoratorFormatandoTextos\bin\Debug\DecoratorFormatandoTextos.dll
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\DecoratorFormatandoTextos\bin\Debug\DecoratorFormatandoTextos.pdb
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\DecoratorFormatandoTextos\obj\Debug\DecoratorFormatandoTextos.csprojResolveAssemblyReference.cache
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\DecoratorFormatandoTextos\obj\Debug\DecoratorFormatandoTextos.dll
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\DecoratorFormatandoTextos\obj\Debug\DecoratorFormatandoTextos.pdb

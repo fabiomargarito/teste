@@ -1,0 +1,8 @@
+C:\Users\Fabio\Desktop\ExemplosModulo2\ExemplosModulo2\Observer\bin\Debug\Observer.dll
+C:\Users\Fabio\Desktop\ExemplosModulo2\ExemplosModulo2\Observer\bin\Debug\Observer.pdb
+C:\Users\Fabio\Desktop\ExemplosModulo2\ExemplosModulo2\Observer\obj\Debug\Observer.dll
+C:\Users\Fabio\Desktop\ExemplosModulo2\ExemplosModulo2\Observer\obj\Debug\Observer.pdb
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\Observer\bin\Debug\Observer.dll
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\Observer\bin\Debug\Observer.pdb
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\Observer\obj\Debug\Observer.dll
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\Observer\obj\Debug\Observer.pdb

@@ -1,0 +1,9 @@
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo2\ExemplosHandsOn\CommandTV\bin\Debug\CommandTV.dll
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo2\ExemplosHandsOn\CommandTV\bin\Debug\CommandTV.pdb
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo2\ExemplosHandsOn\CommandTV\obj\Debug\CommandTV.dll
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo2\ExemplosHandsOn\CommandTV\obj\Debug\CommandTV.pdb
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\CommandTV\bin\Debug\CommandTV.dll
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\CommandTV\bin\Debug\CommandTV.pdb
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\CommandTV\obj\Debug\CommandTV.csprojResolveAssemblyReference.cache
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\CommandTV\obj\Debug\CommandTV.dll
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\CommandTV\obj\Debug\CommandTV.pdb

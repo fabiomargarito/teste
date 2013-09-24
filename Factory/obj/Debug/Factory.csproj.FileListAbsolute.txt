@@ -1,0 +1,4 @@
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo2\ExemplosHandsOn\Factory\bin\Debug\Factory.dll
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo2\ExemplosHandsOn\Factory\bin\Debug\Factory.pdb
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo2\ExemplosHandsOn\Factory\obj\Debug\Factory.dll
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo2\ExemplosHandsOn\Factory\obj\Debug\Factory.pdb

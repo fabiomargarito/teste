@@ -1,0 +1,14 @@
+C:\Users\Fabio\Desktop\ExemplosModulo2\ExemplosModulo2\ExemplosModulo2.Observer\bin\Debug\ExemplosModulo2.Observer.exe
+C:\Users\Fabio\Desktop\ExemplosModulo2\ExemplosModulo2\ExemplosModulo2.Observer\bin\Debug\ExemplosModulo2.Observer.pdb
+C:\Users\Fabio\Desktop\ExemplosModulo2\ExemplosModulo2\ExemplosModulo2.Observer\bin\Debug\Observer.dll
+C:\Users\Fabio\Desktop\ExemplosModulo2\ExemplosModulo2\ExemplosModulo2.Observer\bin\Debug\Observer.pdb
+C:\Users\Fabio\Desktop\ExemplosModulo2\ExemplosModulo2\ExemplosModulo2.Observer\obj\x86\Debug\ExemplosModulo2.ObserverCMD.csprojResolveAssemblyReference.cache
+C:\Users\Fabio\Desktop\ExemplosModulo2\ExemplosModulo2\ExemplosModulo2.Observer\obj\x86\Debug\ExemplosModulo2.Observer.exe
+C:\Users\Fabio\Desktop\ExemplosModulo2\ExemplosModulo2\ExemplosModulo2.Observer\obj\x86\Debug\ExemplosModulo2.Observer.pdb
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\ExemplosModulo2.Observer\bin\Debug\ExemplosModulo2.Observer.exe
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\ExemplosModulo2.Observer\bin\Debug\ExemplosModulo2.Observer.pdb
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\ExemplosModulo2.Observer\bin\Debug\Observer.dll
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\ExemplosModulo2.Observer\bin\Debug\Observer.pdb
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\ExemplosModulo2.Observer\obj\x86\Debug\ExemplosModulo2.ObserverCMD.csprojResolveAssemblyReference.cache
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\ExemplosModulo2.Observer\obj\x86\Debug\ExemplosModulo2.Observer.exe
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\ExemplosModulo2.Observer\obj\x86\Debug\ExemplosModulo2.Observer.pdb

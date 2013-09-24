@@ -1,0 +1,9 @@
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo2\ExemplosHandsOn\FactoryPagamento\bin\Debug\FactoryPagamento.dll
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo2\ExemplosHandsOn\FactoryPagamento\bin\Debug\FactoryPagamento.pdb
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo2\ExemplosHandsOn\FactoryPagamento\obj\Debug\FactoryPagamento.dll
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo2\ExemplosHandsOn\FactoryPagamento\obj\Debug\FactoryPagamento.pdb
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\FactoryPagamento\bin\Debug\FactoryPagamento.dll
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\FactoryPagamento\bin\Debug\FactoryPagamento.pdb
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\FactoryPagamento\obj\Debug\FactoryPagamento.csprojResolveAssemblyReference.cache
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\FactoryPagamento\obj\Debug\FactoryPagamento.dll
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\FactoryPagamento\obj\Debug\FactoryPagamento.pdb

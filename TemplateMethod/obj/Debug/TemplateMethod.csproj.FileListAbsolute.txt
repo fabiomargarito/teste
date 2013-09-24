@@ -1,0 +1,8 @@
+C:\Users\Fabio\Desktop\ExemplosModulo2\ExemplosModulo2\TemplateMethod\bin\Debug\TemplateMethod.dll
+C:\Users\Fabio\Desktop\ExemplosModulo2\ExemplosModulo2\TemplateMethod\bin\Debug\TemplateMethod.pdb
+C:\Users\Fabio\Desktop\ExemplosModulo2\ExemplosModulo2\TemplateMethod\obj\Debug\TemplateMethod.dll
+C:\Users\Fabio\Desktop\ExemplosModulo2\ExemplosModulo2\TemplateMethod\obj\Debug\TemplateMethod.pdb
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\TemplateMethod\bin\Debug\TemplateMethod.dll
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\TemplateMethod\bin\Debug\TemplateMethod.pdb
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\TemplateMethod\obj\Debug\TemplateMethod.dll
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\TemplateMethod\obj\Debug\TemplateMethod.pdb

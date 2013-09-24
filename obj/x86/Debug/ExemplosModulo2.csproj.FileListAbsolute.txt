@@ -1,0 +1,5 @@
+d:\Documents and Settings\fmbarros\Desktop\Treinamento\ExemplosModulo2\ExemplosModulo2\ExemplosModulo2\bin\Debug\ExemplosModulo2.exe
+d:\Documents and Settings\fmbarros\Desktop\Treinamento\ExemplosModulo2\ExemplosModulo2\ExemplosModulo2\bin\Debug\ExemplosModulo2.pdb
+d:\Documents and Settings\fmbarros\Desktop\Treinamento\ExemplosModulo2\ExemplosModulo2\ExemplosModulo2\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\Documents and Settings\fmbarros\Desktop\Treinamento\ExemplosModulo2\ExemplosModulo2\ExemplosModulo2\obj\x86\Debug\ExemplosModulo2.exe
+d:\Documents and Settings\fmbarros\Desktop\Treinamento\ExemplosModulo2\ExemplosModulo2\ExemplosModulo2\obj\x86\Debug\ExemplosModulo2.pdb

@@ -1,0 +1,14 @@
+C:\Users\Fabio\Desktop\ExemplosModulo2\ExemplosModulo2\Decorator\bin\Debug\Decorator.dll
+C:\Users\Fabio\Desktop\ExemplosModulo2\ExemplosModulo2\Decorator\bin\Debug\Decorator.pdb
+C:\Users\Fabio\Desktop\ExemplosModulo2\ExemplosModulo2\Decorator\bin\Debug\ExercicioDecorator.dll
+C:\Users\Fabio\Desktop\ExemplosModulo2\ExemplosModulo2\Decorator\bin\Debug\ExercicioDecorator.pdb
+C:\Users\Fabio\Desktop\ExemplosModulo2\ExemplosModulo2\Decorator\obj\Debug\Decorator.csprojResolveAssemblyReference.cache
+C:\Users\Fabio\Desktop\ExemplosModulo2\ExemplosModulo2\Decorator\obj\Debug\Decorator.dll
+C:\Users\Fabio\Desktop\ExemplosModulo2\ExemplosModulo2\Decorator\obj\Debug\Decorator.pdb
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\Decorator\bin\Debug\Decorator.dll
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\Decorator\bin\Debug\Decorator.pdb
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\Decorator\bin\Debug\ExercicioDecorator.dll
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\Decorator\bin\Debug\ExercicioDecorator.pdb
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\Decorator\obj\Debug\Decorator.csprojResolveAssemblyReference.cache
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\Decorator\obj\Debug\Decorator.dll
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\Decorator\obj\Debug\Decorator.pdb
