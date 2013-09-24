@@ -76,7 +76,7 @@ namespace Infraestrutura
         public Acao RetornarPorID(string identificador)
             {
                 return _contextoDeBancoDeDados.Acao.SingleOrDefault(acao => acao.Codigo == identificador);
-                _contextoDeBancoDeDados.SaveChanges();    
+       
         }
 
         public IList<Acao> ListarTodos()
