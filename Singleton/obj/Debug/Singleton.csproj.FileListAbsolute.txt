@@ -11,8 +11,3 @@ C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\Singleton\bin\Debug\Singleto
 C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\Singleton\bin\Debug\Singleton.pdb
 C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\Singleton\obj\Debug\Singleton.dll
 C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\Singleton\obj\Debug\Singleton.pdb
-C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\Singleton\bin\Debug\Singleton.dll
-C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\Singleton\bin\Debug\Singleton.pdb
-C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\Singleton\obj\Debug\Singleton.csprojResolveAssemblyReference.cache
-C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\Singleton\obj\Debug\Singleton.dll
-C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\Singleton\obj\Debug\Singleton.pdb

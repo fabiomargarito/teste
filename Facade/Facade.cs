@@ -24,7 +24,6 @@ namespace Facade
     }
   }
  
- 
   public class Cliente
   {
     private string _nome;

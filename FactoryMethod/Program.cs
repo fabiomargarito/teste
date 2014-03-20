@@ -11,7 +11,7 @@ namespace FactoryMethod
         static void Main(string[] args)
         {
             var fabricaDeRepositorio = new FactoryMethod.FabricaDeRepositorio();
-            var repositorioDeCliente = fabricaDeRepositorio.CriarRepositorio(TipoDeRepositorio.FORNECEDOR);
+            var repositorioDeCliente = fabricaDeRepositorio.CriarRepositorio(TipoDeRepositorio.CLIENTE);
                    
             repositorioDeCliente.Salvar(new Cliente{identificador = 4, nome = "Teste", sobreNome ="testes 2"});
 

@@ -6,8 +6,3 @@ C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\Facade\bin\Debug\Facade.dll
 C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\Facade\bin\Debug\Facade.pdb
 C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\Facade\obj\Debug\Facade.dll
 C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\Facade\obj\Debug\Facade.pdb
-C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\Facade\bin\Debug\Facade.dll
-C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\Facade\bin\Debug\Facade.pdb
-C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\Facade\obj\Debug\Facade.csprojResolveAssemblyReference.cache
-C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\Facade\obj\Debug\Facade.dll
-C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\Facade\obj\Debug\Facade.pdb

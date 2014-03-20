@@ -28,7 +28,6 @@ namespace Observer
     {
       _investidores.Remove(investidor);
     }
-
  
     public void Notificar()
     {

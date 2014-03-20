@@ -7,3 +7,8 @@ C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\ObserverChegadaDeArquivo\bin
 C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\ObserverChegadaDeArquivo\obj\Debug\ObserverChegadaDeArquivo.csprojResolveAssemblyReference.cache
 C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\ObserverChegadaDeArquivo\obj\Debug\ObserverChegadaDeArquivo.dll
 C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\ObserverChegadaDeArquivo\obj\Debug\ObserverChegadaDeArquivo.pdb
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\ObserverChegadaDeArquivo\bin\Debug\ObserverChegadaDeArquivo.dll
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\ObserverChegadaDeArquivo\bin\Debug\ObserverChegadaDeArquivo.pdb
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\ObserverChegadaDeArquivo\obj\Debug\ObserverChegadaDeArquivo.csprojResolveAssemblyReference.cache
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\ObserverChegadaDeArquivo\obj\Debug\ObserverChegadaDeArquivo.dll
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\ObserverChegadaDeArquivo\obj\Debug\ObserverChegadaDeArquivo.pdb

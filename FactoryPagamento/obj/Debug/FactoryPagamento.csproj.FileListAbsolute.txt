@@ -7,3 +7,8 @@ C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\FactoryPagamento\bin\Debug\F
 C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\FactoryPagamento\obj\Debug\FactoryPagamento.csprojResolveAssemblyReference.cache
 C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\FactoryPagamento\obj\Debug\FactoryPagamento.dll
 C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\FactoryPagamento\obj\Debug\FactoryPagamento.pdb
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\FactoryPagamento\bin\Debug\FactoryPagamento.dll
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\FactoryPagamento\bin\Debug\FactoryPagamento.pdb
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\FactoryPagamento\obj\Debug\FactoryPagamento.csprojResolveAssemblyReference.cache
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\FactoryPagamento\obj\Debug\FactoryPagamento.dll
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\FactoryPagamento\obj\Debug\FactoryPagamento.pdb

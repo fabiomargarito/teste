@@ -14,11 +14,3 @@ C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\ExemplosModulo2\bin\Debug\Ex
 C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\ExemplosModulo2\bin\Debug\Singleton.dll
 C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\ExemplosModulo2\bin\Debug\Singleton.pdb
 C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\ExemplosModulo2\obj\x86\Debug\ExemplosModulo2.SingletonCMD.csprojResolveAssemblyReference.cache
-C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\ExemplosModulo2\bin\Debug\ExemplosModulo2.exe.config
-C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\ExemplosModulo2\obj\x86\Debug\ExemplosModulo2.exe
-C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\ExemplosModulo2\obj\x86\Debug\ExemplosModulo2.pdb
-C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\ExemplosModulo2\bin\Debug\ExemplosModulo2.exe
-C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\ExemplosModulo2\bin\Debug\ExemplosModulo2.pdb
-C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\ExemplosModulo2\bin\Debug\Singleton.dll
-C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\ExemplosModulo2\bin\Debug\Singleton.pdb
-C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\ExemplosModulo2\obj\x86\Debug\ExemplosModulo2.SingletonCMD.csprojResolveAssemblyReference.cache

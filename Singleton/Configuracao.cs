@@ -14,7 +14,6 @@ namespace Singleton
             }
         }
 
-
         private Configuracao() {
             NomeDoBancoDeDados = ConfigurationManager.AppSettings["NomeDoBancoDeDados"].ToString(); ;
         }

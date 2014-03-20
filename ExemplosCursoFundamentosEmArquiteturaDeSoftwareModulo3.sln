@@ -9,6 +9,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infraestrutura", "Infraestrutura\Infraestrutura.csproj", "{92FF217C-BF07-4F3A-A806-2A88F998E96C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6C9154E5-72FD-4BBA-B416-66702CFAC769}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\Desktop\SQLAULA.sql = ..\..\..\..\Desktop\SQLAULA.sql
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

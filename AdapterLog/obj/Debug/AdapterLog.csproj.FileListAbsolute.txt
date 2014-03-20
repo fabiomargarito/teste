@@ -6,3 +6,8 @@ C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\AdapterLog\bin\Debug\Adapter
 C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\AdapterLog\bin\Debug\AdapterLog.pdb
 C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\AdapterLog\obj\Debug\AdapterLog.dll
 C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\AdapterLog\obj\Debug\AdapterLog.pdb
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\AdapterLog\bin\Debug\AdapterLog.dll
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\AdapterLog\bin\Debug\AdapterLog.pdb
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\AdapterLog\obj\Debug\AdapterLog.csprojResolveAssemblyReference.cache
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\AdapterLog\obj\Debug\AdapterLog.dll
+C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\SistemaDeGestaoDeCarteriaDeAcoes\AdapterLog\obj\Debug\AdapterLog.pdb

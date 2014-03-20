@@ -11,22 +11,18 @@ namespace TemplateMethod
     public abstract class DALBase<T>
     {
         protected string _comando;
-
-        public SqlConnection ObterConexao()
+        protected SqlConnection ObterConexao()
         {
             System.Console.WriteLine("Obtendo Conexao");
             return  new SqlConnection();
         }
-
-        public List<T> ExecutarComando()
+        protected List<T> ExecutarComando()
         {
             System.Console.WriteLine("Executando o comando {0}", _comando);
             return new List<T>();
         }
-
-        public abstract void DefinirComando();
-        public abstract List<T> TratarRetorno();
-
+        protected abstract void DefinirComando();
+        protected abstract List<T> TratarRetorno();
 
         public List<T> Executar()
         {
@@ -39,19 +35,16 @@ namespace TemplateMethod
             return retorno;
 
         }
-
-
-
     }
 
-    public abstract class DALCliente : DALBase<Cliente>
+    public class DALCliente : DALBase<Cliente>
     {
-        public override void DefinirComando()
+        protected override void DefinirComando()
         {
             _comando = "select * from cliente";
         }
 
-        public override List<Cliente> TratarRetorno()
+        protected override List<Cliente> TratarRetorno()
         {
             List<Cliente> clientes = new List<Cliente>();
             clientes.Add(new Cliente{cpf = "2222222"});
