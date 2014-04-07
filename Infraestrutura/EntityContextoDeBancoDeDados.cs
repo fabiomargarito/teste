@@ -62,7 +62,6 @@ namespace Infraestrutura
               .IsRequired()
               .HasColumnName("DATA");
 
-
             modelBuilder.Entity<Operacao>()
                 .Property(operacao => operacao.Valor)
                 .IsRequired()

@@ -95,9 +95,6 @@ namespace Infraestrutura
     public class RepositorioAcaoNHibernate : IRepositorio<Acao>
     {
        
-
-
-
    
         public void Gravar(Acao entidade)
         {

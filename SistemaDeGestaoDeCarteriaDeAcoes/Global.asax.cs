@@ -26,9 +26,9 @@ namespace SistemaDeGestaoDeCarteriaDeAcoes
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
             AuthConfig.RegisterAuth();
-            //UnityControleFactory factory = new UnityControleFactory();
-            NinjectControleFactory factoryNinject = new NinjectControleFactory();
-            ControllerBuilder.Current.SetControllerFactory(factoryNinject);
+            UnityControleFactory factory = new UnityControleFactory();
+            //NinjectControleFactory factoryNinject = new NinjectControleFactory();
+            ControllerBuilder.Current.SetControllerFactory(factory);
 
             
         }

@@ -17,7 +17,7 @@ namespace Infraestrutura
                 .Mappings(map => map.FluentMappings.AddFromAssemblyOf<MapeamentoOperacao>())
                 .Database(
                     MsSqlConfiguration.MsSql2008.ConnectionString(
-                        "Integrated Security=SSPI;Persist Security Info=False;Initial Catalog=DBMBCORP;Data Source=Localhost;"))
+                        "Integrated Security=SSPI;Persist Security Info=False;Initial Catalog=DBHomeBroker;Data Source=Localhost;"))
                 .BuildSessionFactory();
 
             return sessionFactory;

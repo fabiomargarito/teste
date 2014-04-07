@@ -1,7 +1,0 @@
-C:\Users\fabio\Desktop\TreinamentoArquiteturaSoftware\ExemplosModulo2\ExemplosModulo2.Adapter\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\fabio\Desktop\TreinamentoArquiteturaSoftware\ExemplosModulo2\ExemplosModulo2.Adapter\bin\Debug\ExemplosModulo2.Adapter.exe
-C:\Users\fabio\Desktop\TreinamentoArquiteturaSoftware\ExemplosModulo2\ExemplosModulo2.Adapter\bin\Debug\ExemplosModulo2.Adapter.pdb
-C:\Users\fabio\Desktop\TreinamentoArquiteturaSoftware\ExemplosModulo2\ExemplosModulo2.Adapter\bin\Debug\Adapter.dll
-C:\Users\fabio\Desktop\TreinamentoArquiteturaSoftware\ExemplosModulo2\ExemplosModulo2.Adapter\bin\Debug\Adapter.pdb
-C:\Users\fabio\Desktop\TreinamentoArquiteturaSoftware\ExemplosModulo2\ExemplosModulo2.Adapter\obj\x86\Debug\ExemplosModulo2.Adapter.exe
-C:\Users\fabio\Desktop\TreinamentoArquiteturaSoftware\ExemplosModulo2\ExemplosModulo2.Adapter\obj\x86\Debug\ExemplosModulo2.Adapter.pdb

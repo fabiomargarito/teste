@@ -1,8 +1,0 @@
-C:\Users\Fabio\Desktop\ExemplosModulo2\ExemplosModulo2\ExercicioDecorator\bin\Debug\ExercicioDecorator.dll
-C:\Users\Fabio\Desktop\ExemplosModulo2\ExemplosModulo2\ExercicioDecorator\bin\Debug\ExercicioDecorator.pdb
-C:\Users\Fabio\Desktop\ExemplosModulo2\ExemplosModulo2\ExercicioDecorator\obj\Debug\ExercicioDecorator.dll
-C:\Users\Fabio\Desktop\ExemplosModulo2\ExemplosModulo2\ExercicioDecorator\obj\Debug\ExercicioDecorator.pdb
-C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\ExercicioDecorator\bin\Debug\ExercicioDecorator.dll
-C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\ExercicioDecorator\bin\Debug\ExercicioDecorator.pdb
-C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\ExercicioDecorator\obj\Debug\ExercicioDecorator.dll
-C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\ExercicioDecorator\obj\Debug\ExercicioDecorator.pdb

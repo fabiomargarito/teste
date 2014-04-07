@@ -1,8 +1,0 @@
-C:\Users\Fabio\Desktop\ExemplosModulo2\ExemplosModulo2\Adapter\bin\Debug\Adapter.dll
-C:\Users\Fabio\Desktop\ExemplosModulo2\ExemplosModulo2\Adapter\bin\Debug\Adapter.pdb
-C:\Users\Fabio\Desktop\ExemplosModulo2\ExemplosModulo2\Adapter\obj\Debug\Adapter.dll
-C:\Users\Fabio\Desktop\ExemplosModulo2\ExemplosModulo2\Adapter\obj\Debug\Adapter.pdb
-C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\Adapter\bin\Debug\Adapter.dll
-C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\Adapter\bin\Debug\Adapter.pdb
-C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\Adapter\obj\Debug\Adapter.dll
-C:\Users\Fabio\Dropbox\Treinamentos\ExemplosModulo3\Adapter\obj\Debug\Adapter.pdb
